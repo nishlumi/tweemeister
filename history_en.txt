@@ -1,0 +1,44 @@
+
+TweeMeister (1.0.8.9) Chrome 36.0.1985.125 m;
+Fix connection error to Croudia
+-- ISHII Eiju <lumidina@gmail.com> 2014/07/29 21:00:00
+
+
+TweeMeister (1.0.8.8) Chrome 34.0.1847.116 m;
+Add the following shortcut key to post for Mac: Enter + Command
+-- ISHII Eiju <lumidina@gmail.com> 2014/04/11 23:30:00
+
+
+TweeMeister (1.0.7.8) Chrome 33.0.1750.154 m;
+Add the application manual link by multiple language(English, Japanese only)
+Fix destination of the application manual link in about dialog
+-- ISHII Eiju <lumidina@gmail.com> 2014/04/08 0:00:00
+
+
+TweeMeister (1.0.6.7) Chrome 33.0.1750.154 m;
+Add copyright for icons of Twitter/Croudia
+Will disable link button to website of SNS, after moving for authentication (to prevent multiple running)
+Display number of characters eash SNS
+Add Uninstall buttons to remove application data (Help button -> Uninstall xxx)
+Fix How to count number of characters
+Fix that collapse of the screen occurs, if there is no registration of the hash tag.
+Fix some translation.
+-- ISHII Eiju <lumidina@gmail.com> 2014/04/05 12:00:00
+
+
+TweeMeister (1.0.2.4) Chrome 33.0.1750.154 m;
+Fix the timing for switching the enable and disable of the Send button and Clear button of after posting.
+-- ISHII Eiju <lumidina@gmail.com> 2014/04/02 23:00:00
+
+
+TweeMeister (1.0.2.3) Chrome 33.0.1750.154 m;
+Remove the page to continue for authorization for Croudia. (will turn automatically from Croudia to This application)
+Change that an user can look SNS name on the message for successfull post.
+Fix that could not to count number of characters about attached an image when is changed from the other account to the Twitter account.
+Fix that do not translate the message for successfull post.
+-- ISHII Eiju <lumidina@gmail.com> 2014/03/31 21:00:00
+
+
+TweeMeister (1.0.0.0) Chrome 33.0.1750.154 m;
+First Release
+-- ISHII Eiju <lumidina@gmail.com> 2014/03/25 21:00:00

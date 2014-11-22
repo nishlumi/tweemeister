@@ -1,0 +1,298 @@
+{
+	"appName": {
+		"message": "TweeMeister",
+		"description": "アプリケーション名"
+	},
+	"appDescription": {
+		"message": "快適なつぶやきのためのTwitter/Croudiaクライアント",
+		"description": "アプリケーションの説明"
+	},
+	"mainwin_mn00" : {
+		"message" : "アカウント",
+		"description" : "アカウントメニューボタン"
+	},
+	"mainwin_mn01" : {
+		"message" : "設定",
+		"description" : "設定メニューボタン"
+	},
+	"mainwin_tab1" : {
+		"message" : "追加情報",
+		"description" : "返信アカウントやハッシュタグ一覧"
+	},
+	"mainwin_tab2" : {
+		"message" : "特殊文字",
+		"description" : "UTF-8で使える絵文字・特殊文字"
+	},
+	"mainwin_tab3" : {
+		"message" : "設定",
+		"description" : "アプリケーションの設定"
+	},
+	"mainwin_sendbtn" : {
+		"message" : "送信",
+		"description" : "入力したテキストを送信"
+	},
+	"mainwin_clearbtn" : {
+		"message" : "クリア",
+		"description" : "入力したテキストをクリア"
+	},
+	"auth_aft_mes01" : {
+		"message" : "PINか認証コードを入力してください。",
+		"description" : "access tokenのためのコード"
+	},
+	"lab_addAccount" : {
+		"message" : "アカウント追加",
+		"description" : "SNSアカウントの追加"
+	},
+	"lab_warnAccount" : {
+		"message" : "※ログイン・認証は各サイトで行います",
+		"description" : "ログインに関する注意書き"
+	},
+	"lab_addedAccount" : {
+		"message" : "設定済みアカウント",
+		"description" : "このアプリに設定されたアカウント一覧"
+	},
+	"lab_lastestPostBySelAccount" : {
+		"message" : "選択アカウントの最新の投稿",
+		"description" : ""
+	},
+	"invalid_request" : {
+		"message" : "必須パラメータが不足しているか、正しいリクエストではありません。",
+		"description" : ""
+	},
+	"invalid_client" : {
+		"message" : "クライアントのID・アプリケーションのコードが問題で認証できません。",
+		"description" : ""
+	},
+	"invalid_grant" : {
+		"message" : "認証コードが期限切れ・正しくありません。",
+		"description" : ""
+	},
+	"unauthorized_client" : {
+		"message" : "このクライアントではこの権限タイプは使用が許可されていません。",
+		"description" : ""
+	},
+	"unsupported_grant_type" : {
+		"message" : "不正な権限タイプが指定されました。",
+		"description" : ""
+	},
+	"do_refresh_token_mes01" : {
+		"message" : "アプリの認証を更新しました",
+		"description" : ""
+	},
+	"remove_account_mes01" : {
+		"message" : "選択したアカウントをこのアプリから削除します。よろしいですか？",
+		"description" : ""
+	},
+	"mn_accountbox_placeHolder" : {
+		"message" : "投稿に使うアカウントを選択してください。(最大4アカウント選択可能)",
+		"description" : ""
+	},
+	"Gurmukhi":{"message" : "グルムキー文字","description":""},
+	"Gujarati":{"message" : "グラジャート文字","description":""},
+	"Oriya":{"message" : "オリヤー文字","description":""},
+	"Tamil":{"message" : "タミル文字","description":""},
+	"Telugu":{"message" : "テルグ文字","description":""},
+	"Kannada":{"message" : "カンナダ文字","description":""},
+	"Malayalam":{"message" : "マラヤーラム文字","description":""},
+	"Sinhara":{"message" : "シンハラ文字","description":""},
+	"Thai":{"message" : "タイ文字","description":""},
+	"Tibetan":{"message" : "チベット文字","description":""},
+	"Buginese":{"message" : "ブギス文字","description":""},
+	"Balinese":{"message" : "バリ文字","description":""},
+	"Sundanese":{"message" : "スンダ文字","description":""},
+	"Lepcha":{"message" : "レプチャ文字","description":""},
+	"Ol_Chiki":{"message" : "オルチキ文字","description":""},
+	"BasicLatin":{"message" : "ラテン文字拡張","description":""},
+	"PhoneticExtentions":{"message" : "音声記号拡張","description":""},
+	"PhoneticExtentionsSupplement":{"message" : "音声記号拡張補助","description":""},
+	"CombiningDiacriticalMarksSupplement":{"message" : "ダイアクリティカルマーク補助","description":""},
+	"SpacingModifierLetters":{"message" : "前進を伴う修飾文字","description":""},
+	"SupplementalMathematicalOperators":{"message" : "補助数学記号","description":""},
+	"MiscellaneousSymbolsandArrows":{"message" : "その他記号と矢印","description":""},
+	"Glagolitic":{"message" : "グラゴル文字","description":""},
+	"Coptic":{"message" : "コプト文字","description":""},
+	"GeorgianSupplement":{"message" : "グルジア文字補助","description":""},
+	"EthiopicExtended":{"message" : "エチオピア文字拡張","description":""},
+	"Nko":{"message" : "ンコ文字","description":""},
+	"Cherokee":{"message" : "チェロキー文字","description":""},
+	"Runic":{"message" : "ルーン文字","description":""},
+	"LatinExtendedAdditional":{"message" : "ラテン拡張追加","description":""},
+	"Latin1Supplement":{"message" : "ラテン1補助","description":""},
+	"LatinExtendedA":{"message" : "ラテン拡張A","description":""},
+	"LatinExtendedB":{"message" : "ラテン拡張B","description":""},
+	"LatinExtendedC":{"message" : "ラテン拡張C","description":""},
+	"LatinExtendedD":{"message" : "ラテン拡張D","description":""},
+	"GreekExtended":{"message" : "ギリシア文字拡張","description":""},
+	"DominoTiles":{"message" : "ドミノ牌","description":""},
+	"SupplementalPunctuation":{"message" : "補助句読点","description":""},
+	"CJKRadicalsSupplement":{"message" : "CJK部首補助","description":""},
+	"KangxiRadicals":{"message" : "康熙部首","description":""},
+	"YijingHexagramSymbols":{"message" : "易経記号（六十四卦）","description":""},
+	"CurrencySymbols":{"message" : "通貨記号","description":""},
+	"GeometricShapes":{"message" : "幾何学模様","description":""},
+	"GreekandCoptic":{"message" : "ギリシア文字およびコプト文字","description":""},
+	"Cyrillic":{"message" : "キリル文字","description":""},
+	"CyrillicSupplement":{"message" : "キリル文字補助","description":""},
+	"Armenian":{"message" : "アルメニア文字","description":""},
+	"Arabic":{"message" : "アラビア文字","description":""},
+	"Syriac":{"message" : "シリア文字","description":""},
+	"ArabicSupplement":{"message" : "アラビア文字補助","description":""},
+	"Thaana":{"message" : "ターナ文字","description":""},
+	"Devanagari":{"message" : "デーヴァナーガリー文字","description":""},
+	"Bengali":{"message" : "ベンガル文字","description":""},
+	"Myanmar":{"message" : "ミャンマー（ビルマ）文字","description":""},
+	"Ethiopic":{"message" : "エチオピア文字","description":""},
+	"EthiopicSupplement":{"message" : "エチオピア文字補助","description":""},
+	"CanadianAboriginal":{"message" : "統合カナダ先住民音節","description":""},
+	"Ogham":{"message" : "オガム（オーム）文字","description":""},
+	"Tagalog":{"message" : "タガログ文字","description":""},
+	"Hanunoo":{"message" : "ハヌノオ文字","description":""},
+	"Buhid":{"message" : "ブヒッド文字","description":""},
+	"Tagbanwa":{"message" : "タグバヌワ文字","description":""},
+	"Khmer":{"message" : "クメール文字","description":""},
+	"Mongolian":{"message" : "モンゴル文字","description":""},
+	"Limbu":{"message" : "リンブ文字","description":""},
+	"TaiLe":{"message" : "タイ・ロ文字","description":""},
+	"NewTaiLue":{"message" : "新タイ・ロ文字","description":""},
+
+	"GeneralPunctuation":{"message" : "一般句読点","description":""},
+	"LetterlikeSymbols":{"message" : "文字様記号","description":""},
+	"NumberForms":{"message" : "数字に準じるもの","description":""},
+	"Arrows":{"message" : "矢印","description":""},
+	"MathematicalOperators":{"message" : "数学記号（演算子）","description":""},
+	"MiscellaneousTechnical":{"message" : "その他技術用記号","description":""},
+	"BlockElements":{"message" : "ブロック要素","description":""},
+	"MiscellaneousSymbols":{"message" : "その他記号","description":""},
+	"Dingbats":{"message" : "装飾記号","description":""},
+	"BraillePatterns":{"message" : "点字図形","description":""},
+	"SupplementalArrowsB":{"message" : "補助矢印B","description":""},
+	"MiscellaneousMathematicalSymbolsB":{"message" : "その他数学記号B","description":""},
+	"CJKSymbolsandPunctuation":{"message" : "CJKの記号及び句読点","description":""},
+	"Bopomofo":{"message" : "注音字母","description":""},
+	"HangulCompatibilityJamo":{"message" : "ハングル互換字母","description":""},
+	"Kanbun":{"message" : "漢文様記号（返り点）","description":""},
+	"EnclosedCJKLettersandMonths":{"message" : "囲みCJK文字・月","description":""},
+	"Hebrew":{"message" : "ヘブライ文字","description":""},
+	"ModifierToneLetters":{"message" : "音調修飾文字","description":""},
+	"HangulSyllables":{"message" : "ハングル音節文字","description":""},
+	"CJKCompatibilityForms":{"message" : "CJK互換形","description":""},
+	"OpticalCharacterRecognition":{"message" : "光学的文字認識(OCR)","description":""},
+	"CJKCompatibility":{"message" : "CJK互換用文字","description":""},
+
+	"Pictogram" : {
+		"message" : "特殊文字",
+		"description" : ""
+	},
+	"Letter" : {
+		"message" : "通常の文字",
+		"description" : ""
+	},
+	"post_msg01" : {
+		"message" : "投稿に成功しました！",
+		"description" : ""
+	},
+	"post_error_msg01" : {
+		"message" : "アカウントを必ず1つ以上選択してください。",
+		"description" : ""
+	},
+	"post_error_msg02" : {
+		"message" : "文字数を減らしてから投稿してください。",
+		"description" : ""
+	},
+	"tagedit_reloadbtn" : {
+		"message" : "タグを再読み込み",
+		"description" : ""
+	},
+	"lab_fontsize" : {
+		"message" : "入力ボックスのフォントの大きさ",
+		"description" : ""
+	},
+	"lab_clearpost" : {
+		"message" : "投稿後に入力ボックスの内容をクリアする",
+		"description" : ""
+	},
+	"btn_clear_img" : {
+		"message" : "添付画像をクリア",
+		"description" : ""
+	},
+	"image_error_msg01" : {
+		"message" : "複数の画像は添付できません。",
+		"description" : ""
+	},
+	"txt_contentlength_added" : {
+		"message" : "Twitterでは画像の添付はリンクとして文字数に含まれます。",
+		"description" : ""
+	},
+	"lab_tab1_hashtag" : {
+		"message" : "ハッシュタグ",
+		"description" : ""
+	},
+	"lab_tab1_attach" : {
+		"message" : "画像添付",
+		"description" : ""
+	},
+	"tbl_acc_accname" : {
+		"message" : "アカウント名",
+		"description" : ""
+	},
+	"tbl_acc_usrname" : {
+		"message" : "表示名",
+		"description" : ""
+	},
+	"tbl_acc_srvname" : {
+		"message" : "サービス名",
+		"description" : ""
+	},
+	"tbl_acc_status" : {
+		"message" : "投稿数",
+		"description" : ""
+	},
+	"tbl_acc_friend" : {
+		"message" : "フォロー数",
+		"description" : ""
+	},
+	"tbl_acc_follow" : {
+		"message" : "フォロアー数",
+		"description" : ""
+	},
+	"acc_toolbar_reload" : {
+		"message" : "情報更新",
+		"description" : ""
+	},
+	"acc_toolbar_edit" : {
+		"message" : "編集",
+		"description" : ""
+	},
+	"acc_toolbar_remove" : {
+		"message" : "削除",
+		"description" : ""
+	},
+	"lab_tagedit" : {
+		"message" : "タグエディタ",
+		"description" : ""
+	},
+	"btn_handspchar" : {
+		"message" : "入力",
+		"description" : ""
+	},
+	"inp_handspchar_title" : {
+		"message" : "直接入力する",
+		"description" : ""
+	},
+	"msg_over_limit" : {
+		"message" : "文字超過しています！",
+		"description" : ""
+	},
+	"msg_uninstall_sync" : {
+		"message" : "アプリケーションの同期データを削除します。本当によろしいですか？(元に戻せません)",
+		"description" : ""
+	},
+	"msg_uninstall_local" : {
+		"message" : "PC内のこのアプリケーションの保存データを削除します。本当によろしいですか？(元に戻せません)",
+		"description" : ""
+	},
+	"msg_uninstall_after" : {
+		"message" : "アプリケーションの保存データを削除しました。この後はアプリを閉じてください。",
+		"description" : ""
+	}
+}

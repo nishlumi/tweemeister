@@ -1,0 +1,33 @@
+body {
+	border: 2px inset gray;
+    padding: 5px;
+}
+div.jGrowl > .ui-state-highlight {
+	background: inherit;
+	color: inherit;
+	border: inherit;
+}
+
+.warning {
+	color : red;
+}
+button.accelem {
+	width:64px;
+	height:64px;
+	vertical-align : bottom;
+}
+.icon-twitter{
+	background:url('../images/Twitter_logo_blue.png') no-repeat center top;
+	background-size : 48px;
+}
+.icon-croudia{
+	background:url('../images/icon_croudia_crnk2.png') no-repeat center top;
+	background-size : 48px;
+}
+#box_lastpost {
+	width : 590px;
+	height : 80px;
+	border : 1px dotted gray;
+	clear : both;
+	overflow : hidden;
+}

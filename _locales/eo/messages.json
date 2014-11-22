@@ -1,0 +1,299 @@
+{
+	"appName": {
+		"message": "TweeMeister",
+		"description": "La aplikaĵa nomo"
+	},
+	"appDescription": {
+		"message": "Kliento de Twitter/Croudia por komforta pepo",
+		"description": "La aplikaĵa priskribo"
+	},
+	"mainwin_mn00" : {
+		"message" : "Konto",
+		"description" : "Menubutono por persona konto"
+	},
+	"mainwin_mn01" : {
+		"message" : "Ŝarĝo",
+		"description" : "Menubutono ŝarĝi la aplikaĵon"
+	},
+	"mainwin_tab1" : {
+		"message" : "Aldona informo",
+		"description" : "Respondinda konto kaj etikeda listo"
+	},
+	"mainwin_tab2" : {
+		"message" : "Specialaj literoj",
+		"description" : "Multaj piktogramoj"
+	},
+	"mainwin_tab3" : {
+		"message" : "Ŝarĝo",
+		"description" : "ŝarĝi la aplikaĵon"
+	},
+	"mainwin_sendbtn" : {
+		"message" : "Sendu",
+		"description" : "Sendi enigita teksto"
+	},
+	"mainwin_clearbtn" : {
+		"message" : "Forstreki",
+		"description" : "Forstreki enigita teksto"
+	},
+	"auth_aft_mes01" : {
+		"message" : "Boncole enmetu kodon de PIN aŭ aŭtentika kodo",
+		"description" : "kodo por access token"
+	},
+	"lab_addAccount" : {
+		"message" : "Aldoni konton",
+		"description" : "Aldoni konton de socia retservo"
+	},
+	"lab_warnAccount" : {
+		"message" : "* Bonvole ensaluti en ĉiu retpaĝo.",
+		"description" : "Noti por ensaluti socia retservo"
+	},
+	"lab_addedAccount" : {
+		"message" : "Listo de registrata konto",
+		"description" : "kontolist aldonata en la aplikaĵo"
+	},
+	"lab_lastestPostBySelAccount" : {
+		"message" : "La plej nova afiŝo de elektita konto",
+		"description" : ""
+	},
+	"invalid_request" : {
+		"message" : "Invalida postulo de parametro",
+		"description" : ""
+	},
+	"invalid_client" : {
+		"message" : "ne aŭtentika de kliento aŭ sekreta kodo",
+		"description" : ""
+	},
+	"invalid_grant" : {
+		"message" : "Invalida aŭtentika kodo",
+		"description" : ""
+	},
+	"unauthorized_client" : {
+		"message" : "Malkorekta aŭtentika kliento",
+		"description" : ""
+	},
+	"unsupported_grant_type" : {
+		"message" : "Ne subtena konceda tipo",
+		"description" : ""
+	},
+	"do_refresh_token_mes01" : {
+		"message" : "Renovigis aplikaĵan aŭtentikon",
+		"description" : ""
+	},
+	"remove_account_mes01" : {
+		"message" : "Forlasos elektatan konton. Ĉu vi permesos?",
+		"description" : ""
+	},
+	"mn_accountbox_placeHolder" : {
+		"message" : "Bonvole elekti kontojn kontribui (povas ekekti maksimume 4 kontojn",
+		"description" : ""
+	},
+	"Gurmukhi":{"message" : "Gurmukhi","description":""},
+	"Gujarati":{"message" : "guĝarata","description":""},
+	"Oriya":{"message" : "Orija","description":""},
+	"Tamil":{"message" : "Tamil","description":""},
+	"Telugu":{"message" : "telugu","description":""},
+	"Kannada":{"message" : "kanara","description":""},
+	"Malayalam":{"message" : "Malayalam","description":""},
+	"Sinhara":{"message" : "Sinhara","description":""},
+	"Thai":{"message" : "Taja","description":""},
+	"Tibetan":{"message" : "tibeta","description":""},
+	"Buginese":{"message" : "Buginesa","description":""},
+	"Balinese":{"message" : "Balinesa","description":""},
+	"Sundanese":{"message" : "Sundanese","description":""},
+	"Lepcha":{"message" : "Lepcha","description":""},
+	"Ol_Chiki":{"message" : "Ol Chiki","description":""},
+	"BasicLatin":{"message" : "bazaj latina","description":""},
+	"PhoneticExtentions":{"message" : "fonetika Extentions","description":""},
+	"PhoneticExtentionsSupplement":{"message" : "Phonetic Extentions Supplement","description":""},
+	"CombiningDiacriticalMarksSupplement":{"message" : "Combining Diacritical Marks Supplement","description":""},
+	"SpacingModifierLetters":{"message" : "Spacing Modifier Letters","description":""},
+	"SupplementalMathematicalOperators":{"message" : "Suplementa Matematikaj Operacisimboloj","description":""},
+	"MiscellaneousSymbolsandArrows":{"message" : "Mistera simbolo kaj Sago","description":""},
+	"Glagolitic":{"message" : "Glagolitic","description":""},
+	"Coptic":{"message" : "Coptic","description":""},
+	"GeorgianSupplement":{"message" : "Georgian Supplement","description":""},
+	"EthiopicExtended":{"message" : "Ethiopic Extended","description":""},
+	"Nko":{"message" : "Nko","description":""},
+	"Cherokee":{"message" : "Cherokee","description":""},
+	"Runic":{"message" : "Runic","description":""},
+	"LatinExtendedAdditional":{"message" : "Latina Etendita Aldona","description":""},
+	"Latin1Supplement":{"message" : "Latin-1 Supplement","description":""},
+	"LatinExtendedA":{"message" : "Latino Etendita-A","description":""},
+	"LatinExtendedB":{"message" : "Latino Etendita-B","description":""},
+	"LatinExtendedC":{"message" : "Latino Etendita C","description":""},
+	"LatinExtendedD":{"message" : "Latino Etendita D","description":""},
+	"GreekExtended":{"message" : "Greka Etendita C","description":""},
+	"DominoTiles":{"message" : "Domino Tiles","description":""},
+	"SupplementalPunctuation":{"message" : "suplementa interpunkciaj","description":""},
+	"CJKRadicalsSupplement":{"message" : "CJK Radikaluloj Supplement","description":""},
+	"KangxiRadicals":{"message" : "Kangxi Radikaluloj","description":""},
+	"YijingHexagramSymbols":{"message" : "Yijing Hexagram Simboloj","description":""},
+	"CurrencySymbols":{"message" : "Valutaj Simboloj","description":""},
+	"GeometricShapes":{"message" : "Geometric Shapes","description":""},
+	"GreekandCoptic":{"message" : "Greek and Coptic","description":""},
+	"Cyrillic":{"message" : "Cyrillic","description":""},
+	"CyrillicSupplement":{"message" : "Cyrillic Supplement","description":""},
+	"Armenian":{"message" : "Armenian","description":""},
+	"Arabic":{"message" : "Arabic","description":""},
+	"Syriac":{"message" : "Syriac","description":""},
+	"ArabicSupplement":{"message" : "Arabic Supplement","description":""},
+	"Thaana":{"message" : "Thaana","description":""},
+	"Devanagari":{"message" : "Devanagari","description":""},
+	"Bengali":{"message" : "Bengali","description":""},
+	"Myanmar":{"message" : "Myanmar","description":""},
+	"Ethiopic":{"message" : "Ethiopic","description":""},
+	"EthiopicSupplement":{"message" : "Ethiopic Supplement","description":""},
+	"CanadianAboriginal":{"message" : "Unified Canadian Aboriginal Syllabics","description":""},
+	"Ogham":{"message" : "Ogham","description":""},
+	"Tagalog":{"message" : "Tagalog","description":""},
+	"Hanunoo":{"message" : "Hanunoo","description":""},
+	"Buhid":{"message" : "Buhid","description":""},
+	"Tagbanwa":{"message" : "Tagbanwa","description":""},
+	"Khmer":{"message" : "Khmer","description":""},
+	"Mongolian":{"message" : "Mongolian","description":""},
+	"Limbu":{"message" : "Limbu","description":""},
+	"TaiLe":{"message" : "Tai Le","description":""},
+	"NewTaiLue":{"message" : "New Tai Lue","description":""},
+
+	"GeneralPunctuation":{"message" : "Ĝenerala interpunkciaj","description":""},
+	"LetterlikeSymbols":{"message" : "Letterlike Simboloj","description":""},
+	"NumberForms":{"message" : "Numero Formoj","description":""},
+	"Arrows":{"message" : "sagoj","description":""},
+	"MathematicalOperators":{"message" : "matematikaj operacisimboloj","description":""},
+	"MiscellaneousTechnical":{"message" : "Miscellaneous Technical","description":""},
+	"BlockElements":{"message" : "bloko Eroj","description":""},
+	"MiscellaneousSymbols":{"message" : "Diversaĵoj Simboloj","description":""},
+	"Dingbats":{"message" : "Dingbats","description":""},
+	"BraillePatterns":{"message" : "Brajlo Ŝablonoj","description":""},
+	"SupplementalArrowsB":{"message" : "Suplementaj sagoj-B","description":""},
+	"MiscellaneousMathematicalSymbolsB":{"message" : "Diversaĵoj Matematikaj simboloj-B","description":""},
+	"CJKSymbolsandPunctuation":{"message" : "CJK Simboloj kaj interpunkciaj","description":""},
+	"Bopomofo":{"message" : "Bopomofo","description":""},
+	"HangulCompatibilityJamo":{"message" : "Hangul Kongruo Jamo","description":""},
+	"Kanbun":{"message" : "Kanbun","description":""},
+	"EnclosedCJKLettersandMonths":{"message" : "Barita CJK Literoj kaj Monatoj","description":""},
+	"Hebrew":{"message" : "Hebrea","description":""},
+	"ModifierToneLetters":{"message" : "Modifilo Tono Literoj","description":""},
+	"HangulSyllables":{"message" : "Hangul Silaboj","description":""},
+	"CJKCompatibilityForms":{"message" : "CJK kongruecaj Formoj","description":""},
+	"OpticalCharacterRecognition":{"message" : "Optical Character Recognition","description":""},
+	"CJKCompatibility":{"message" : "CJK Compatibility","description":""},
+
+	"Pictogram" : {
+		"message" : "Piktogramo",
+		"description" : ""
+	},
+	"Letter" : {
+		"message" : "Litero",
+		"description" : ""
+	},
+	"post_msg01" : {
+		"message" : "Sukcesa afiŝo!",
+		"description" : ""
+	},
+	"post_error_msg01" : {
+		"message" : "Bonvole elektu unu aŭ pli kontojn.",
+		"description" : ""
+	},
+	"post_error_msg02" : {
+		"message" : "Bonvole malmultigu nombron de karaktroj por Twitter.",
+		"description" : ""
+	},
+	"tagedit_reloadbtn" : {
+		"message" : "Renovigi etikedon",
+		"description" : ""
+	},
+	"lab_fontsize" : {
+		"message" : "Grandeco de tiparo por enigujo",
+		"description" : ""
+	},
+	"lab_clearpost" : {
+		"message" : "Forstreki enhavon en enigujo post kontribui",
+		"description" : ""
+	},
+	"btn_clear_img" : {
+		"message" : "forstreki kunsendaĵon",
+		"description" : ""
+	},
+	"image_error_msg01" : {
+		"message" : "Ne povas aldoni plurajn desegnojn.",
+		"description" : ""
+	},
+	"txt_contentlength_added" : {
+		"message" : "Ĝi enhavas nombron de karaktroj kiel ligo por kunsendaĵo en Twitter.",
+		"description" : ""
+	},
+	"lab_tab1_hashtag" : {
+		"message" : "Etikedo",
+		"description" : ""
+	},
+	"lab_tab1_attach" : {
+		"message" : "Aldoni kunsendaĵon",
+		"description" : ""
+	},
+	"tbl_acc_accname" : {
+		"message" : "Konta nomo",
+		"description" : ""
+	},
+	"tbl_acc_usrname" : {
+		"message" : "Nomo por vido",
+		"description" : ""
+	},
+	"tbl_acc_srvname" : {
+		"message" : "Servonomo",
+		"description" : ""
+	},
+	"tbl_acc_status" : {
+		"message" : "Nombro de Afiŝoj",
+		"description" : ""
+	},
+	"tbl_acc_friend" : {
+		"message" : "Nombro de amikoj",
+		"description" : ""
+	},
+	"tbl_acc_follow" : {
+		"message" : "Nombro de sekvantoj",
+		"description" : ""
+	},
+	"acc_toolbar_reload" : {
+		"message" : "Renovigi informon",
+		"description" : ""
+	},
+	"acc_toolbar_edit" : {
+		"message" : "Redakti",
+		"description" : ""
+	},
+	"acc_toolbar_remove" : {
+		"message" : "Forstreki",
+		"description" : ""
+	},
+	"lab_tagedit" : {
+		"message" : "Etikeda redaktilo",
+		"description" : ""
+	},
+	"btn_handspchar" : {
+		"message" : "Enmetu",
+		"description" : ""
+	},
+	"inp_handspchar_title" : {
+		"message" : "Enmetu direkte",
+		"description" : ""
+	},
+	"msg_over_limit" : {
+		"message" : " da nombroj supre!",
+		"description" : ""
+	},
+	"msg_uninstall_sync" : {
+		"message" : "Forstrekos sinkronigitan aplikaĵan datumon. Ĉu vi permesos? (ne povas retrovi)",
+		"description" : ""
+	},
+	"msg_uninstall_local" : {
+		"message" : "Forstrekos lokan aplikaĵan datumon. Ĉu vi permesos? (ne povas retrovi)",
+		"description" : ""
+	},
+	"msg_uninstall_after" : {
+		"message" : "Forstreki finiĝis sukcese. Bonvole fermi la aplikaĵon.",
+		"description" : ""
+	}
+
+}

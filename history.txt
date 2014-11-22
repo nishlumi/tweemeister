@@ -1,0 +1,44 @@
+
+TweeMeister (1.0.8.9) Chrome 36.0.1985.125 m;
+Croudiaへの接続時にエラーから復帰出来なかった問題を修正。
+-- ISHII Eiju <lumidina@gmail.com> 2014/07/29 21:00:00
+
+
+TweeMeister (1.0.8.8) Chrome 34.0.1847.116 m;
+投稿の送信のショートカットキーにEnter + Command(Meta)を追加。（Macのみ）
+-- ISHII Eiju <lumidina@gmail.com> 2014/04/11 23:30:00
+
+
+TweeMeister (1.0.7.8) Chrome 33.0.1750.154 m;
+マニュアルをChromeの言語別にそれぞれみられるようにした。（英語・日本語のみ）
+このアプリについてのダイアログから見られるマニュアルのリンクがおかしかったのを修正。
+-- ISHII Eiju <lumidina@gmail.com> 2014/04/08 0:00:00
+
+
+TweeMeister (1.0.6.7) Chrome 33.0.1750.154 m;
+Twitter/Croudiaのアイコンの著作権表示を追加。
+各SNSの認証画面遷移時、アプリ側のリンクボタンを多重操作防止のため非活性にした。
+文字数カウントをSNSごとに分けて表示
+アプリケーションデータの削除（アンインストール）に対応（Helpボタン→Uninstall xxx）
+Twitter時、文字数のカウントがおかしかったのを修正。
+ハッシュタグの登録が一つもない場合、起動時にたまに画面が崩れるのを修正。
+翻訳が一部反映されていなかったのを修正。
+-- ISHII Eiju <lumidina@gmail.com> 2014/04/05 12:00:00
+
+
+TweeMeister (1.0.2.4) Chrome 33.0.1750.154 m;
+投稿後の送信ボタン・クリアボタンの活性・非活性を切り替えるタイミングを修正。
+-- ISHII Eiju <lumidina@gmail.com> 2014/04/02 23:00:00
+
+
+TweeMeister (1.0.2.3) Chrome 33.0.1750.154 m;
+Croudiaへの認証の際に出てくる認証コードのページを削除。（Croudiaから本アプリに自動的に切り替わるようにした）
+投稿成功時のメッセージを各SNSごとにわかるようにした。
+画像を添付している時、アカウントTwitter以外からTwitterに切り替えると字数が正しくカウントされていなかったバグを修正。
+投稿成功時のメッセージが翻訳できていなかったのを修正。
+-- ISHII Eiju <lumidina@gmail.com> 2014/03/31 21:00:00
+
+
+TweeMeister (1.0.0.0) Chrome 33.0.1750.154 m;
+初回リリース
+-- ISHII Eiju <lumidina@gmail.com> 2014/03/25 21:00:00

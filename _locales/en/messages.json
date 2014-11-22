@@ -1,0 +1,303 @@
+{
+	"appName": {
+		"message": "TweeMeister",
+		"description": "The name of the application"
+	},
+	"appDescription": {
+		"message": "Twitter/Croudia client for comfortable tweet",
+		"description": "The description of the application"
+	},
+	"mainwin_mn00" : {
+		"message" : "Account",
+		"description" : "Account Menu Button"
+	},
+	"mainwin_mn01" : {
+		"message" : "Settings",
+		"description" : "Settings Menu Button"
+	},
+	"mainwin_tab1" : {
+		"message" : "Additional info",
+		"description" : "reply accout and Hash tags list"
+	},
+	"mainwin_tab2" : {
+		"message" : "Special Character",
+		"description" : "Many pictogram"
+	},
+	"mainwin_tab3" : {
+		"message" : "Configuration",
+		"description" : "Configuration for this app"
+	},
+	"mainwin_sendbtn" : {
+		"message" : "Send",
+		"description" : "To send inputed text"
+	},
+	"mainwin_clearbtn" : {
+		"message" : "Clear",
+		"description" : "To clear inputed text"
+	},
+	"auth_aft_mes01" : {
+		"message" : "Please input PIN or authorization code.",
+		"description" : "code for access token"
+	},
+	"lab_addAccount" : {
+		"message" : "To add an account",
+		"description" : "Add any SNS account"
+	},
+	"lab_warnAccount" : {
+		"message" : "* Please login in each website.",
+		"description" : "notification for login SNS"
+	},
+	"lab_addedAccount" : {
+		"message" : "Registered accounts list",
+		"description" : "accounts list of added in this app"
+	},
+	"lab_lastestPostBySelAccount" : {
+		"message" : "Lastest post by selected post",
+		"description" : ""
+	},
+	"invalid_request" : {
+		"message" : "Invalid request by parameters",
+		"description" : ""
+	},
+	"invalid_client" : {
+		"message" : "not authorize by client ID or secret code",
+		"description" : ""
+	},
+	"invalid_grant" : {
+		"message" : "Invalid authorization code",
+		"description" : ""
+	},
+	"unauthorized_client" : {
+		"message" : "Incorrect authorized client",
+		"description" : ""
+	},
+	"unsupported_grant_type" : {
+		"message" : "Unsupported grant type",
+		"description" : ""
+	},
+	"do_refresh_token_mes01" : {
+		"message" : "Refreshed the app authorization",
+		"description" : ""
+	},
+	"remove_account_mes01" : {
+		"message" : "Remove choosed Account from this app. Are you sure?",
+		"description" : ""
+	},
+	"mn_accountbox_placeHolder" : {
+		"message" : "Please choose accounts to post.(can choose maximally 4 accounts)",
+		"description" : ""
+	},
+	"mn_accountbox_placeHolder" : {
+		"message" : "Please choose accounts to post.(can choose maximally 4 accounts)",
+		"description" : ""
+	},
+	"Gurmukhi":{"message" : "Gurmukhi","description":""},
+	"Gujarati":{"message" : "Gujarati","description":""},
+	"Oriya":{"message" : "Oriya","description":""},
+	"Tamil":{"message" : "Tamil","description":""},
+	"Telugu":{"message" : "Telugu","description":""},
+	"Kannada":{"message" : "Kannada","description":""},
+	"Malayalam":{"message" : "Malayalam","description":""},
+	"Sinhara":{"message" : "Sinhara","description":""},
+	"Thai":{"message" : "Thai","description":""},
+	"Tibetan":{"message" : "Tibetan","description":""},
+	"Buginese":{"message" : "Buginese","description":""},
+	"Balinese":{"message" : "Balinese","description":""},
+	"Sundanese":{"message" : "Sundanese","description":""},
+	"Lepcha":{"message" : "Lepcha","description":""},
+	"Ol_Chiki":{"message" : "Ol Chiki","description":""},
+	"BasicLatin":{"message" : "Basic Latin","description":""},
+	"PhoneticExtentions":{"message" : "Phonetic Extentions","description":""},
+	"PhoneticExtentionsSupplement":{"message" : "Phonetic Extentions Supplement","description":""},
+	"CombiningDiacriticalMarksSupplement":{"message" : "Combining Diacritical Marks Supplement","description":""},
+	"SpacingModifierLetters":{"message" : "Spacing Modifier Letters","description":""},
+	"SupplementalMathematicalOperators":{"message" : "Supplemental Mathematical Operators","description":""},
+	"MiscellaneousSymbolsandArrows":{"message" : "Miscellaneous Symbols and Arrows","description":""},
+	"Glagolitic":{"message" : "Glagolitic","description":""},
+	"Coptic":{"message" : "Coptic","description":""},
+	"GeorgianSupplement":{"message" : "Georgian Supplement","description":""},
+	"EthiopicExtended":{"message" : "Ethiopic Extended","description":""},
+	"Nko":{"message" : "Nko","description":""},
+	"Cherokee":{"message" : "Cherokee","description":""},
+	"Runic":{"message" : "Runic","description":""},
+	"LatinExtendedAdditional":{"message" : "Latin Extended Additional","description":""},
+	"Latin1Supplement":{"message" : "Latin-1 Supplement","description":""},
+	"LatinExtendedA":{"message" : "Latin Extended-A","description":""},
+	"LatinExtendedB":{"message" : "Latin Extended-B","description":""},
+	"LatinExtendedC":{"message" : "Latin Extended-C","description":""},
+	"LatinExtendedD":{"message" : "Latin Extended-D","description":""},
+	"GreekExtended":{"message" : "Greek Extended","description":""},
+	"DominoTiles":{"message" : "Domino Tiles","description":""},
+	"SupplementalPunctuation":{"message" : "Supplemental Punctuation","description":""},
+	"CJKRadicalsSupplement":{"message" : "CJK Radicals Supplement","description":""},
+	"KangxiRadicals":{"message" : "Kangxi Radicals","description":""},
+	"YijingHexagramSymbols":{"message" : "Yijing Hexagram Symbols","description":""},
+	"CurrencySymbols":{"message" : "Currency Symbols","description":""},
+	"GeometricShapes":{"message" : "Geometric Shapes","description":""},
+	"GreekandCoptic":{"message" : "Greek and Coptic","description":""},
+	"Cyrillic":{"message" : "Cyrillic","description":""},
+	"CyrillicSupplement":{"message" : "Cyrillic Supplement","description":""},
+	"Armenian":{"message" : "Armenian","description":""},
+	"Arabic":{"message" : "Arabic","description":""},
+	"Syriac":{"message" : "Syriac","description":""},
+	"ArabicSupplement":{"message" : "Arabic Supplement","description":""},
+	"Thaana":{"message" : "Thaana","description":""},
+	"Devanagari":{"message" : "Devanagari","description":""},
+	"Bengali":{"message" : "Bengali","description":""},
+	"Myanmar":{"message" : "Myanmar","description":""},
+	"Ethiopic":{"message" : "Ethiopic","description":""},
+	"EthiopicSupplement":{"message" : "Ethiopic Supplement","description":""},
+	"CanadianAboriginal":{"message" : "Unified Canadian Aboriginal Syllabics","description":""},
+	"Ogham":{"message" : "Ogham","description":""},
+	"Tagalog":{"message" : "Tagalog","description":""},
+	"Hanunoo":{"message" : "Hanunoo","description":""},
+	"Buhid":{"message" : "Buhid","description":""},
+	"Tagbanwa":{"message" : "Tagbanwa","description":""},
+	"Khmer":{"message" : "Khmer","description":""},
+	"Mongolian":{"message" : "Mongolian","description":""},
+	"Limbu":{"message" : "Limbu","description":""},
+	"TaiLe":{"message" : "Tai Le","description":""},
+	"NewTaiLue":{"message" : "New Tai Lue","description":""},
+
+	"GeneralPunctuation":{"message" : "General Punctuation","description":""},
+	"LetterlikeSymbols":{"message" : "Letterlike Symbols","description":""},
+	"NumberForms":{"message" : "Number Forms","description":""},
+	"Arrows":{"message" : "Arrows","description":""},
+	"MathematicalOperators":{"message" : "Mathematical Operators","description":""},
+	"MiscellaneousTechnical":{"message" : "Miscellaneous Technical","description":""},
+	"BlockElements":{"message" : "Block Elements","description":""},
+	"MiscellaneousSymbols":{"message" : "Miscellaneous Symbols","description":""},
+	"Dingbats":{"message" : "Dingbats","description":""},
+	"BraillePatterns":{"message" : "Braille Patterns","description":""},
+	"SupplementalArrowsB":{"message" : "Supplemental Arrows-B","description":""},
+	"MiscellaneousMathematicalSymbolsB":{"message" : "Miscellaneous Mathematical Symbols-B","description":""},
+	"CJKSymbolsandPunctuation":{"message" : "CJK Symbols and Punctuation","description":""},
+	"Bopomofo":{"message" : "Bopomofo","description":""},
+	"HangulCompatibilityJamo":{"message" : "Hangul Compatibility Jamo","description":""},
+	"Kanbun":{"message" : "Kanbun","description":""},
+	"EnclosedCJKLettersandMonths":{"message" : "Enclosed CJK Letters and Months","description":""},
+	"Hebrew":{"message" : "Hebrew","description":""},
+	"ModifierToneLetters":{"message" : "Modifier Tone Letters","description":""},
+	"HangulSyllables":{"message" : "Hangul Syllables","description":""},
+	"CJKCompatibilityForms":{"message" : "CJK Compatibility Forms","description":""},
+	"OpticalCharacterRecognition":{"message" : "Optical Character Recognition","description":""},
+	"CJKCompatibility":{"message" : "CJK Compatibility","description":""},
+
+	"Pictogram" : {
+		"message" : "Pictogram",
+		"description" : ""
+	},
+	"Letter" : {
+		"message" : "Letter",
+		"description" : ""
+	},
+	"post_msg01" : {
+		"message" : "Successfull post!",
+		"description" : ""
+	},
+	"post_error_msg01" : {
+		"message" : "Please select one or more accounts.",
+		"description" : ""
+	},
+	"post_error_msg02" : {
+		"message" : "Please reduce number of characters for Twitter.",
+		"description" : ""
+	},
+	"tagedit_reloadbtn" : {
+		"message" : "Reload tag",
+		"description" : ""
+	},
+	"lab_fontsize" : {
+		"message" : "Font size for the input box",
+		"description" : ""
+	},
+	"lab_clearpost" : {
+		"message" : "Clear inpux box after post",
+		"description" : ""
+	},
+	"btn_clear_img" : {
+		"message" : "Clar attach image",
+		"description" : ""
+	},
+	"image_error_msg01" : {
+		"message" : "Can not attach multiple images.",
+		"description" : ""
+	},
+	"txt_contentlength_added" : {
+		"message" : "It contains number of characters as link for attaching picture in Twitter.",
+		"description" : ""
+	},
+	"lab_tab1_hashtag" : {
+		"message" : "Hash tag",
+		"description" : ""
+	},
+	"lab_tab1_attach" : {
+		"message" : "Attaching an image",
+		"description" : ""
+	},
+	"tbl_acc_accname" : {
+		"message" : "Account name",
+		"description" : ""
+	},
+	"tbl_acc_usrname" : {
+		"message" : "View name",
+		"description" : ""
+	},
+	"tbl_acc_srvname" : {
+		"message" : "Service",
+		"description" : ""
+	},
+	"tbl_acc_status" : {
+		"message" : "Posts number",
+		"description" : ""
+	},
+	"tbl_acc_friend" : {
+		"message" : "Friends number",
+		"description" : ""
+	},
+	"tbl_acc_follow" : {
+		"message" : "Followers number",
+		"description" : ""
+	},
+	"acc_toolbar_reload" : {
+		"message" : "Reload info",
+		"description" : ""
+	},
+	"acc_toolbar_edit" : {
+		"message" : "Edit",
+		"description" : ""
+	},
+	"acc_toolbar_remove" : {
+		"message" : "Remove",
+		"description" : ""
+	},
+	"lab_tagedit" : {
+		"message" : "Tag Editor",
+		"description" : ""
+	},
+	"btn_handspchar" : {
+		"message" : "Input",
+		"description" : ""
+	},
+	"inp_handspchar_title" : {
+		"message" : "Direct input",
+		"description" : ""
+	},
+	"msg_over_limit" : {
+		"message" : " number over!",
+		"description" : ""
+	},
+	"msg_uninstall_sync" : {
+		"message" : "Remove synchronized  application data. Are you sure? (can not recover)",
+		"description" : ""
+	},
+	"msg_uninstall_local" : {
+		"message" : "Remove local application data. Are you sure? (can not recover)",
+		"description" : ""
+	},
+	"msg_uninstall_after" : {
+		"message" : "Successfully removed application data. Please close this app.",
+		"description" : ""
+	}
+
+}

@@ -1,0 +1,120 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="Content-Security-Policy" content="img-src 'self' http: https:">
+        <title>tweemeister</title>
+        <link rel="stylesheet" href="styles/jquery.jgrowl.min.css">
+        <link rel="stylesheet" href="styles/cupertino/jquery-ui-1.10.3.custom.min.css">
+        <link rel="stylesheet" type="text/css" href="styles/easyui/bootstrap/easyui.css">
+        <link rel="stylesheet" type="text/css" href="styles/easyui/icon.css">
+        <link rel="stylesheet" type="text/css" href="styles/selectize.default.css">
+        <link rel="stylesheet" type="text/css" href="styles/select2.css">
+
+        <!-- build:css styles/main.css -->
+        <link rel="stylesheet" href="styles/main.css">
+        <!-- endbuild -->
+    </head>
+    <body>
+    	<header>
+    	<div role="toolbar" id="hd_toolbar">
+    		<a href="#" id="mn0" class="easyui-linkbutton"></a>
+    		<!--<a href="#" id="mn1" class="easyui-linkbutton"></a>-->
+    		<a href="#" id="mn2" class="easyui-linkbutton"></a>
+    		<select id="mn_accountbox" multiple></select>
+    	</div>
+    	</header>
+    	<section id="mainarea">
+    	<span id="labtest"></span><br/>
+    	<div id="content_subarea">
+	    	<table><tr>
+	    	<td>
+		    	<iframe id="fr_inputcontent" name="fr_inputcontent" class="inputarea" contenteditable>
+		    	</iframe>
+	    	</td>
+	    	<td>
+		    	<div id="area_length_twitter" class="area_length"><img src="images/Twitter_logo_blue.png" alt="Twtter" title="Twitter" width="16" height="16"><span id="txt_contentlength" class="contentlength">0</span><br/>
+		    	<span id="txt_contentlength_added" title="" style="margin-left:1em;"></span></div>
+		    	<div id="area_length_croudia" class="area_length"><img src="images/icon_croudia_crnk2.png" alt="Croudia" title="Croudia" width="16" height="16"><span id="txt_contentlength_croudia" class="contentlength">0</span>
+		    	</div>
+	    	</td>
+	    	</tr>
+	    	</table>
+    	</div>
+    	<div id="submit_area">
+    	<button id="btn_send" class="submitcommon"></button><br/>
+    	<button id="btn_clear" class="submitcommon"></button>
+    	</div>
+    	<div id="tab_area" class="easyui-tabs" title="">
+    		<div id="tab_tab1" class="tab_common" title="">
+	    		<strong id="lab_tab1_hashtag"></strong><br/>
+	    		<div>
+	    		<input type="text" id="txt_addtag" name="txt_addtag"  style="width : 670px;height:32px;font-size:120%"/>
+	    		</div>
+	    		<table>
+	    		<tr>
+	    		<td  style="vertical-align:top;">
+	    		<strong id="lab_tab1_attach" style="font-size:90%;"></strong><br/>
+	    		<div style="float:left;">
+	    			<div id="area_imgdrp">drop in here.</div>
+	    			<a href="#" id="btn_clear_img" class="easyui-linkbutton"></a>
+	    		</div>
+	    		<div id="area_view_img"></div>
+	    		</td>
+	    		<td style="vertical-align:top;">
+	    		</td>
+	    		</tr>
+	    		</table>
+    		</div>
+    		<div id="tab_tab2" class="tab_common" title="">
+    			<br style="padding-bottom:-0.5em;"/>
+    			<select id='sel01' class="charlist"></select>
+    			<input type="text" id="inp_handspchar" size="7"/>
+    			<button id="btn_handspchar"></button><br/>
+    			<div id="chararea">
+    			</div>
+    		</div>
+    		<div id="tab_tab3" class="tab_common" title="">
+    		<div style="margin: 2px 2px 2px 2px;">
+    			<label><span id="lab_clearpost"></span><input type="checkbox" id="opt_clearpost"></label><br/>
+    			<label><span id="lab_fontsize"></span><select id="opt_fontsize" style="width:75px;"></select></label><br/>
+	    		<strong id="lab_tagedit" style="font-size:90%;"></strong><br/>
+	    		<textarea id="pool_tag" cols="35" rows="5"></textarea><br/>
+	    		<button id="btn_reload_tagedit" style="width:200px;"></button><br/>
+    		</div>
+    		</div>
+    	</div>
+    	<div id="aboutdlg" class="easyui-dialog" style="width:400px;height:270px;">
+    		<img src="images/tweemeister-64.png" alt="tweemeister" title="tweemeister" style="float:left;"/>
+    		<h1 id="about_appname">TweeMeister</h1>
+    		<br style="clear: both;"/>
+    		<span>Version:</span> <strong id="about_ver"></strong><br/>
+    		<span>Locale:</span> <strong id="about_locale"></strong><br/>
+    		<span>Description:</strong><strong id="about_desc"></strong><br/>
+    		<span>App manual: </span><a href="https://drive.google.com/file/d/0BybsGSqkFuyuTlF1V1VfcUpsYm8/edit?usp=sharing" id="lnk_man" target="_blank">Here</a>
+    		<br/>
+    		<br/>
+    		<span>Copyright 2014 <span id="about_author"></span>. All rights reserved.</span><br/>
+    		<button id="btn_uninstall_s">Uninstall sync</button><br/>
+    		<button id="btn_uninstall_l">Uninstall local</button><br/>
+    	</div>
+    	</section>
+    	<footer>
+    	</footer>
+        <!-- build:js scripts/index.js -->
+        <script src="scripts/jquery-2.1.0.min.js"></script>
+        <script src="scripts/jquery-ui-1.10.3.custom.min.js"></script>
+        <script src="scripts/jquery.easyui.min.js"></script>
+        <script src="scripts/easyui-lang-jp.js"></script>
+        <script src="scripts/jquery.jgrowl.min.js"></script>
+        <script src="scripts/selectize.min.js"></script>
+		<script src="scripts/jsOAuth-1.3.7.js"></script>
+        <script src="scripts/select2.js"></script>
+        <script src="scripts/select2_locale_ja.js"></script>
+        <script src="scripts/twitter-text.js"></script>
+        <script src="scripts/siteinfo.js"></script>
+        <script src="scripts/util.js"></script>
+        <script src="scripts/clientclass.js"></script>
+        <script src="scripts/index.js"></script>
+        <!-- endbuild -->
+    </body>
+</html>
